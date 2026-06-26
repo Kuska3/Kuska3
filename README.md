@@ -2,25 +2,22 @@
 
 # Hi 👋, I'm Kushagra Sharma
 
-### Software Engineer • Full Stack Developer • AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Python+Developer;Backend+Developer;AI+Enthusiast;Always+Learning" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;Backend+Developer;AI+Enthusiast;Always+Learning+🚀" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Kuska3&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Kuska3&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Kuska3?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/Kuska3?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Kuska3?affiliations=OWNER&style=for-the-badge"/> -->
 
 </div>
 
 ---
 
 # 👨‍💻 About Me
-
-## 👨‍💻 About Me
 
 ```cpp
 class KushagraSharma {
